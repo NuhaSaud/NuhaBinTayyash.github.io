@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nuha BinTayyash academic personal website"
+title: "Nuha BinTayyash"
 author_profile: true
 redirect_from: 
   - /about/
